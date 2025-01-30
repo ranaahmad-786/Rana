@@ -1,2 +1,26 @@
 console.WriteLine("Muhammad Ahmad");
 console.WriteLine("24-ST-027");
+console.WriteLine("English");
+console.WriteLine("Urdu");
+console.WriteLine("Math");
+console.WriteLine("Physics");
+console.WriteLine("Islamiyat");
+console.WriteLine("Computer");
+console.WriteLine("pak study");
+console.WriteLine("Semester-1");
+console.WriteLine("ITS");
+console.WriteLine("Islamic studies");
+console.WriteLine("Programming");
+console.WriteLine("EHS");
+console.WriteLine("Calculus");
+console.WriteLine("Applied Physics");
+console.WriteLine("semester-2");
+console.WriteLine("SDLC");
+console.WriteLine("discrete math");
+console.WriteLine("OOP");
+console.WriteLine("T.Q");
+console.WriteLine("Software management");
+console.WriteLine("scm");
+
+
+ 
